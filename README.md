@@ -4,7 +4,7 @@
 
 In this project, my goal was to create a functional web app for searching for pokemon and displaying the results.
 
-![https://media.tenor.com/EJz4yytoX3EAAAAC/king-of.gif]
+![](https://media.tenor.com/EJz4yytoX3EAAAAC/king-of.gif)
 
 ## Overview of My Experience and Process
 
